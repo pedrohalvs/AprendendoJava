@@ -1,1 +1,1 @@
-Tudo que eu eprender de novo em Java vai estar aqui.
+Tudo que eu eprendi ou vir aprender em Java vai estar aqui.
